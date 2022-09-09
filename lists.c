@@ -157,3 +157,4 @@ node = next_node;
 }
 *head_ptr = NULL;
 }
+
